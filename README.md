@@ -1,4 +1,4 @@
-# Codsoft_Task1_ToDoList
+# Codsoft_Task2_ToDoList
 
 # To-Do List Application
 
